@@ -1,0 +1,14 @@
+{
+  "name": "maxim-lampglue",
+  "version": "0.1.0",
+  "author": "Maxim Burgerhout",
+  "summary": "Glue together various pieces of a simple LAMP stack",
+  "license": "Apache 2.0",
+  "source": "https://github.com/wzzrd/maxim-lampglue",
+  "project_page": "https://github.com/wzzrd/maxim-lampglue",
+  "issues_url": "https://github.com/wzzrd/maxim-lampglue/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
